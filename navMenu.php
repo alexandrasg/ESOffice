@@ -3,8 +3,9 @@
     <h2>Menu</h2>
   </header>
   <ul>
-    <li><a href="index.php">Homepage</a></li>
+    <li><a href="index.php">General Info</a></li>
     <li><a href="directory.php">Faculty Directory</a></li>
+    <li><a href="shift.php">Shift Duties</a></li>
     <li><a href="generic.html">Generic</a></li>
     <li><a href="elements.html">Elements</a></li>
     <li>

@@ -33,6 +33,7 @@
 															<ul class="contact">
 																<li class="fa-envelope-o">info@exitspacedance.com</li>
 																<li class="fa-envelope-o">Rentals: rentals@exitspacedance.com</li>
+																<li class="fa-envelope-o">YDP Enrollments: enrollment@exitspacedance.com</li>
 																<li class="fa-clock-o">Mon - Thu: 3:30 - 8:30p<br>
 									              Fri: 4 - 7p<br>
 									              Sat, Sun: 9a - 12p</li>
@@ -47,17 +48,20 @@
 												<li class="fa-home">414 NE 72nd Street <br />
 												Seattle, WA 98115</li>
 												<li class="fa-wifi">linksys_SES_53705<br/>pwd: thehippityhop</li>
+												<li class="fa-print">esoffice1@hpeprint.com</li>
 											</ul>
 										</div>
 
 										<div class="4u 12u$(medium)">
 											<strong><h3>theNEST:</h3></strong>
 											<ul class="contact">
-												<li class="fa-phone">206.523.6240</li>
+												<li class="fa-phone">206.523.6240<br>(office use only -- not on general website)</li>
 												<li class="fa-home">6600 1st Ave NE<br />
 												Seattle, WA 98115</li>
-												<li class="fa-wifi">theNEST (guest)<br/>pwd: jazzhands</li>
-											</ul>
+												<li class="fa-wifi">theNestguest<br/>pwd: jazzhands</li>
+												<li class="fa-wifi">theNest (office staff/faculty)<br/>pwd: danceON5678!</li>
+												<li class="fa-print">esthenest1@hpeprint.com</li>
+										</ul>
 										</div>
 
 										</div>
