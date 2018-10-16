@@ -13,7 +13,7 @@
 
     <!-- Footer -->
       <footer id="footer">
-        <p class="copyright">&copy;2017 eXit SPACE School of Dance. All rights reserved.</p>
+        <p class="copyright">&copy;2018 eXit SPACE School of Dance. All rights reserved.</p>
       </footer>
   </div>
 </div>
