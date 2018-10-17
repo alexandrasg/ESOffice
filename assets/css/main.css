@@ -2642,6 +2642,7 @@
 			padding-left: 0.5em;
 		}
 
+		ul > li > ul,
 		#generalInfo > ol > li > ul {
 			margin: 0;
 		}

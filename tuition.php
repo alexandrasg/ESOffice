@@ -201,7 +201,17 @@
 	Each sibling is discounted 10%. There is no "extra" discount for extra siblings.<br><br>
 	Program Tuition and Scholarships are separate and are managed by Marlo.
 </p>
+
+<hr class="major" />
+<h3>YDP Quick Tuition Calculator</h3>
+<p>Works best in Chrome Browser</p>
+<iframe src="https://docs.google.com/spreadsheets/d/17qaJ-ML4DY0undnyL7jNkVg8p4JPXecoJtTzaiWB8JE/edit?usp=sharing?widget=false&amp;headers=false&amp;rm=minimal" width="600" height="400"></iframe>
+
 									</section>
+
+
+
+
 
 						</div>
 					</div>
